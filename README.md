@@ -71,7 +71,7 @@ pkg upgrade -y
 
 pkg install git 
 
-git clone https://github.com/nmishal001/PUBG-Phishing.git
+git clone https://github.com/Lucifer-MorningStarX/PUBG-Phishing
 
 cd PUBG-Phishing
 
