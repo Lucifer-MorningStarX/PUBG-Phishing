@@ -17,11 +17,8 @@
 
 PUBG-Phisher Is a Open-Source Tool Made My Lucifer-MorningStar
 It Has many Phishing Templates Which Can Be Used To Fool Any PUBGM User
-offering him Free UC and Free Premium Items etc.\n
-Telegram : https://t.me/LuciferSamiel
-Youtube : Not Yet
-Instagram : Privacy
-PhoneNumber : Never 
+offering him Free UC and Free Premium Items etc.
+* Telegram : https://t.me/LuciferSamiel
 
 ### AVAILABLE ON :
 
