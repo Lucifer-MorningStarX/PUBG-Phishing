@@ -1,0 +1,14 @@
+Lucifer ©\e[34m
+ _               _  __           
+| |   _   _  ___(_)/ _| ___ _ __ 
+| |  | | | |/ __| | |_ / _ \ '__|
+| |__| |_| | (__| |  _|  __/ |   
+|_____\__,_|\___|_|_|  \___|_|   
+                              	  
+							  							  
+          \e[m"
+echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+  
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/Lucifer-MorningStarX \e[0m\n"
+
+echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/LuciferSamiel \e[0m\n"
